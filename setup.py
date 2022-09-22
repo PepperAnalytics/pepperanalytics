@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='pythonpackagesample',
+setup(name='pepperanalytics',
       version='0.1',  # Development release
-      description='Python Packaging Starting Kit - Simple Structure to creater your own package - for training purposes!',
-      url='https://github.com/manoelgadi/pythonpackagesample',
-      author='Prof. Manoel Gadi',
-      author_email='mfalonso@faculty.ie.edu',
+      description='Paquete del area Pepper Analytics',
+      url='https://github.com/PepperAnalytics/pepperanalytics.git',
+      author='Pepper Analytics',
+      author_email='raul.marin@peppergroup.es',
       license='MIT',
           packages=['pythonpackagesample'],
       zip_safe=False)
