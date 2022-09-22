@@ -1,16 +1,13 @@
-__version__="0.2"
+__version__="0.1"
 
 class Pepperanalytics:
 
-    def  hola(self):
+    def  hola():
         """ function to return the string 'Hello World' """
         return("Hello World!!")
-        
     
 
 def adios():
     return ("Adios!")
-
-
 
 
